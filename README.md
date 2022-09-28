@@ -1,8 +1,8 @@
 ## <h1 align="center"> Oi eu sou Gabriel, Estudante de Análise e Desenvolvimento de Sistemas.</h1>
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
 
 <div align="center">
   <a href="https://github.com/GSilva11">
-  <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GSilva11&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
