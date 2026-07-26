@@ -1,10 +1,10 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════╗
-║         Gabriel Silva · Data Analyst Jr              ║
-║  Engenharia de Dados · ETL · Recuperação de Crédito  ║
-╚══════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════╗
+║             Gabriel Silva · Data Analyst                 ║
+║     Engenharia de Dados · ETL · Python · SQL · Airflow   ║
+╚══════════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -54,14 +54,6 @@ Formação em **ADS (Fatec)** + **Pós-graduação em Análise de Dados (Descomp
 ---
 
 ### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gblsilva&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&icon_color=10B981&text_color=ffffff" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gblsilva&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=10B981&text_color=ffffff" alt="Top Languages" />
-
-</div>
 
 <div align="center">
 
