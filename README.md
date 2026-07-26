@@ -3,7 +3,7 @@
 ```
 ╔══════════════════════════════════════════════════════╗
 ║         Gabriel Silva · Data Analyst Jr              ║
-║    Engenharia de Dados · ETL · Recuperação de Crédito║
+║  Engenharia de Dados · ETL · Recuperação de Crédito  ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
