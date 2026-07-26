@@ -63,6 +63,11 @@ Formação em **ADS (Fatec)** + **Pós-graduação em Análise de Dados (Descomp
 
 </div>
 
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=gblsilva&theme=dark&background=0d1117&side_border=0d1117&ring=10B981&fire=10B981&currStreakNum=ffffff" alt="GitHub Streak" />
+
+</div>
 ---
 
 ### 📫 Contato
